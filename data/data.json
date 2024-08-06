@@ -1,14 +1,17 @@
 {
   "usuarios": [
     {
-      "id": 47,
-      "email": "josephrodriri@gmail.com"
-    },
-    {
       "id": 0,
       "email": "juan@gmail.com"
+    },
+    {
+      "id": 9,
+      "email": "joseph.rodriri@gmail.com",
+      "nombre": "joseph",
+      "vidas": 0,
+      "correctas": 0,
+      "incorrectas": 0
     }
-  
   ],
   "preguntas": []
 }
